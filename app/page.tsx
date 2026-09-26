@@ -10,7 +10,7 @@ const SALON_CONFIG = {
   accent: '#18181B', // Rich luxury black
   champagne: '#C5A880', // Subtle luxury champagne gold
   logo: 'BON',
-  bookingUrl: 'https://www.bon-bon.com/',
+  bookingUrl: 'https://www.fresha.com/providers/bon-bon-salon-cw6ojgcx?share=&pId=192747&allOffer=true',
   masterPin: '1234',
 }
 
